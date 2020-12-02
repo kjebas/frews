@@ -1,0 +1,22 @@
+{
+
+"apps":[
+
+   "com.adlock",
+   "org.blokada.alarm.dnschanger",
+   "com.adguard.android",
+    "dev.tuantv.android.dnschanger",
+    "com.burakgon.dnschanger",
+    "com.anythingintellect.freednschanger",
+    "app.greyshirts.sslcapture",
+    "jp.co.taosoftware.android.packetcapture",
+    "com.guoshi.httpcanary",
+    "com.minhui.networkcapture.pro",
+    "com.minhui.wifianalyzer",
+    "com.evbadroid.wicapdemo",
+    "com.evbadroid.proxymon",
+    "com.packagesniffer.frtparlak",
+    "com.emanuelef.remote_capture"
+
+  ]
+}
