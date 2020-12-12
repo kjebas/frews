@@ -1,10 +1,13 @@
 {
   "latestVersion": "3.2",
-  "latestVersionCode": "8",
-  "url": "https://bit.ly/Hunkv311",
+  "latestVersionCode": "9",
+  "url": "https://rebrand.ly/HunkTV",
   "releaseNotes": [
-    "- Bug Fixed",
-    "- Optimized Server",
-    "- Security Updated"
+  "- [Added] Watch History",
+  "- [Added] Resume playback",
+  "- [Added] Quality selector",
+  "- [Added] Dual Audio Support",
+  "- [Added] Hard coded subtitles",
+  "- [Fixed] Exit Button"
   ]
 }
