@@ -1,13 +1,9 @@
 {
-  "latestVersion": "3.2",
-  "latestVersionCode": "10",
-  "url": "https://rebrand.ly/HunkTV",
+  "latestVersion": "3.3",
+  "latestVersionCode": "12",
+  "url": "https://rebrand.ly/HunkTV-GitHub",
   "releaseNotes": [
-  "- [Added] Watch History",
-  "- [Added] Resume playback",
-  "- [Added] Quality selector",
-  "- [Added] Dual Audio Support",
-  "- [Added] Hard coded subtitles",
-  "- [Fixed] Exit Button"
+  "- [Added] New Embed Player",
+  "- [Fixed] Embed Links"
   ]
 }
