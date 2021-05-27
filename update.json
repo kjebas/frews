@@ -3,9 +3,10 @@
   "latestVersionCode": "13",
   "url": "https://rebrand.ly/htv-git",
   "releaseNotes": [
-  "- [Fixed] Play Protect Issue",
+  "- Fixed Play Protect Issue",
   "- Ads Removed",
-  "",  
-  "Note: First uninstall the old version APK then install this APK"
+  "",
+  "",
+  "Note: First uninstall any old version APK then install this APK"
   ]
 }
